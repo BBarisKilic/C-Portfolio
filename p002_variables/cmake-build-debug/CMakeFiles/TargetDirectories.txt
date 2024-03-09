@@ -1,0 +1,3 @@
+/Users/bbk/CLionProjects/C-Portfolio/p002_variables/cmake-build-debug/CMakeFiles/p002_variables.dir
+/Users/bbk/CLionProjects/C-Portfolio/p002_variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bbk/CLionProjects/C-Portfolio/p002_variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir

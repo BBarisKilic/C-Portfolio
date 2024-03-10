@@ -1,0 +1,14 @@
+# ninja log v5
+0	34	1710097386113101211	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+1	25	1710097395842916510	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+25	53	1710097395871554976	p005_if_statements	9a0a7cd3d1bf9ac6
+1	36	1710098141840516213	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+36	70	1710098141872903076	p005_if_statements	9a0a7cd3d1bf9ac6
+1	41	1710098345782640012	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+41	76	1710098345816748281	p005_if_statements	9a0a7cd3d1bf9ac6
+1	27	1710098393023363202	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+27	62	1710098393058195927	p005_if_statements	9a0a7cd3d1bf9ac6
+1	28	1710098468780188407	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+28	62	1710098468815108214	p005_if_statements	9a0a7cd3d1bf9ac6
+7	46	1710101859949587083	CMakeFiles/p005_if_statements.dir/main.c.o	3e8e7dfdcf8f384b
+46	87	1710101859989747425	p005_if_statements	9a0a7cd3d1bf9ac6

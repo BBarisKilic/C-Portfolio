@@ -1,0 +1,3 @@
+/Users/bbk/CLionProjects/C-Portfolio/p005_if_statements/cmake-build-debug/CMakeFiles/p005_if_statements.dir
+/Users/bbk/CLionProjects/C-Portfolio/p005_if_statements/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bbk/CLionProjects/C-Portfolio/p005_if_statements/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+0	29	1710112200545881810	CMakeFiles/p007_switch_statements.dir/main.c.o	b02fdb0ef17b5d66
+29	63	1710112200580317752	p007_switch_statements	4e69af7ac366861c
+1	26	1710112233120701109	CMakeFiles/p007_switch_statements.dir/main.c.o	b02fdb0ef17b5d66
+26	57	1710112233152650053	p007_switch_statements	4e69af7ac366861c
+1	27	1710112254085541741	CMakeFiles/p007_switch_statements.dir/main.c.o	b02fdb0ef17b5d66
+27	57	1710112254116153268	p007_switch_statements	4e69af7ac366861c
+1	28	1710112317101513828	CMakeFiles/p007_switch_statements.dir/main.c.o	b02fdb0ef17b5d66
+28	62	1710112317136127979	p007_switch_statements	4e69af7ac366861c
+1	28	1710112977773001628	CMakeFiles/p007_switch_statements.dir/main.c.o	b02fdb0ef17b5d66
+28	63	1710112977808217986	p007_switch_statements	4e69af7ac366861c

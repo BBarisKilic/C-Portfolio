@@ -16,6 +16,6 @@ int main(void) {
   printf("my_double: %lf\n", my_double);
   printf("my_char: %c\n", my_char);
   printf("my_encoded_char: %c\n", my_encoded_char);
-  
+
   return 0;
 }

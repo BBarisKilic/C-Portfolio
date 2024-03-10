@@ -10,7 +10,7 @@ int main(void) {
   // printf("Enter a character: ");
   // scanf("%c", &d);
   // printf("The character you entered is: %c\n", d);
-
+  
   char buffer[50];
   printf("Please enter your name: ");
   scanf("%s", buffer);

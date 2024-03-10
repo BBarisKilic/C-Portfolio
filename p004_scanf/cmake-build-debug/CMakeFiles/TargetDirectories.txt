@@ -1,0 +1,3 @@
+/Users/bbk/CLionProjects/C-Portfolio/p004_scanf/cmake-build-debug/CMakeFiles/p004_scanf.dir
+/Users/bbk/CLionProjects/C-Portfolio/p004_scanf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bbk/CLionProjects/C-Portfolio/p004_scanf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

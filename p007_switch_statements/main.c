@@ -2,8 +2,12 @@
 #include <stdio.h>
 #include <string.h>
 
+const int SHOuldTriggerClang_Tidy = 10;
+
 int main(void) {
   int num = 4;
+
+  printf("%d\n", SHOuldTriggerClang_Tidy);
 
   switch (num) {
     case 1:
